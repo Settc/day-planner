@@ -7,7 +7,7 @@
   local storage. The time blocks are color-coded, changing color depending
   on whether the block is in the past, present, or future.
    
-![Day planner screenshot](assets/dayplannerscreenshot.png)
+![Day planner screenshot](Assets/dayplannerscreenshot.png)
 
 
 ### Technologies
